@@ -1,1 +1,10 @@
-Resolucion de Algoritmo 1
+Resolucion de Algoritmo-1
+
+Generar un algoritmo que permite calcular y presentar el área de un triángulo. Los datos deben ser pedidos al usuario.
+1. Inicio
+2. Se pide ingresar la base
+3. Se pide ingresar la altura
+4. Se calcula el area del triangulo multiplicando su base por la altura
+5. Se realiza la division para 2 
+6. Se presenta en pantalla el resultado del area del triangulo.
+7. Fin
