@@ -1,0 +1,6 @@
+1. Inicio.
+2. Se pide ingresar el costo por minutos.
+3. Se pide ingresar el numero de minutos consumidos por el mes.
+4. Se calcula multiplicando el costo por el numero de minutos.
+5. Se presenta en pantalla el valor de la planilla de telefono de una casa.
+5. Fin

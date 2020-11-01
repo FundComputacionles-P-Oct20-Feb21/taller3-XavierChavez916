@@ -1,0 +1,9 @@
+1. Inicio.
+2. Se pide ingresar el costo de netflix por mes.
+3. Se pide ingresar el costo de youtube premiun por mes.
+4. Se pide ingresar el costo de dropbox por mes.
+5. Se pide ingresar el costo de spotify por mes.
+6. Se suma todos los valores.
+7. Si la persona es menor de 30 años se descuenta el 20% del total mensual
+8. Se presenta en pantalla el valor total mensual de servicios digitales de una persona
+9. Fin
